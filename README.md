@@ -19,6 +19,7 @@ A collection of awesome resources to get fantastic-looking, framework-agnostic i
 - [Devicons](https://vorillaz.github.io/devicons/#/main)
 - [Remix Icons](https://github.com/Remix-Design/RemixIcon)
 - [Eva Icons](https://github.com/akveo/eva-icons)
+- [Iconic](https://useiconic.com/open)
 
 ## Applicaiton Specific / Niche
 
