@@ -8,6 +8,7 @@ A collection of awesome resources to get fantastic-looking, framework-agnostic i
 - [Feather Icons](https://feathericons.com)
 - [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
 - [Hero Icons](https://github.com/tailwindlabs/heroicons)
+- [Iconic](https://useiconic.com/open)
 - [Ionicons](https://ionicons.com)
 - [Material Design Icons](https://materialdesignicons.com)
 - [Material Icons](https://material.io/resources/icons/?style=baseline)
